@@ -1,0 +1,5 @@
+Copyright (c) 2026 Pacho. All Rights Reserved.
+
+The P8 Tweak binary/installer distributed in this repository is licensed for personal use only under a commercial license. Unauthorized redistribution, modification, reverse engineering, or decompilation of the application binary or its assets is strictly prohibited. 
+
+To use the software fully, a valid license key must be purchased from authorized channels.
