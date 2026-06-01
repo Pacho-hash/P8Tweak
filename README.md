@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/846aede7-dc55-411f-a225-4009b8f36c1c" alt="P8 Tweak Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/846aede7-dc55-411f-a225-4009b8f36c1c" alt="P8 Tweak Banner" width="50%">
 </div>
 
 # P8 Tweak
@@ -54,7 +54,7 @@ P8 Tweak requires a license key for full access.
 <summary><b>Click to view screenshots</b></summary>
 <br />
 
-| Dashboard | Gaming Optimizer |
+| Dashboard |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/9c5f1cdd-f419-4369-9911-ba815a59e691" alt="Dashboard" width="400" /> |
 
@@ -63,10 +63,7 @@ P8 Tweak requires a license key for full access.
 
 ## 💳 Pricing
 
-P8 Tweak is currently available at a special launch price!
-
-- **Launch Price:** **$4.99** (Limited Time)
-- **Regular Price:** $9.99
+Coming soon
 
 ## 💬 Support & Community
 
