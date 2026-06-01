@@ -55,7 +55,6 @@ P8 Tweak requires a license key for full access.
 <br />
 
 | Dashboard |
-| :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/9c5f1cdd-f419-4369-9911-ba815a59e691" alt="Dashboard" width="400" /> |
 
 <br />
