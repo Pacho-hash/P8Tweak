@@ -25,6 +25,7 @@ P8 Tweak is a comprehensive Windows utility designed to help you extract maximum
 - **🗂️ Storage Analyzer**: Visually identify what's eating up your disk space and easily delete large, forgotten files.
 - **⏱️ Benchmark**: Test your CPU, RAM, and Disk performance directly within the app to measure your optimization gains.
 - **🚀 Max Optimize**: Our signature one-click solution to apply the best, safest performance tweaks across your entire system simultaneously.
+- ** Over 35+ system tweaks and optimizations
 
 ## 💻 System Requirements
 
@@ -53,7 +54,10 @@ P8 Tweak requires a license key for full access.
 <details>
 <summary><b>Click to view screenshots</b></summary>
 <br />
-| <img src="https://github.com/user-attachments/assets/9c5f1cdd-f419-4369-9911-ba815a59e691" alt="Dashboard" width="400" /> |
+ <img src="https://github.com/user-attachments/assets/9c5f1cdd-f419-4369-9911-ba815a59e691" alt="Dashboard" width="400" /> 
+ <img src="https://github.com/user-attachments/assets/c62d334b-7fc5-4755-94f1-8ab3229d52ff" alt="Drive" width="400" /> 
+ <img src="https://github.com/user-attachments/assets/12b31686-e91c-4566-9d94-c8adc981fdc7" alt="Gaming" width="400" /> 
+
 
 <br />
 </details>
