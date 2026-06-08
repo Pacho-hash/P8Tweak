@@ -65,7 +65,7 @@ P8 Tweak requires a license key for full access.
 
 ## 💳 Pricing
 
-Coming soon
+https://pacho8.gumroad.com/l/P8Tweak
 
 ## 💬 Support & Community
 
