@@ -14,6 +14,15 @@
 
 P8 Tweak is a comprehensive Windows utility designed to help you extract maximum performance, enhance privacy, and take complete control over your operating system. Whether you're a gamer seeking higher framerates or a power user looking to declutter, P8 Tweak has you covered.
 
+## 🎥 See It In Action
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=hb5f4SgC_x4">
+    <img src="https://img.youtube.com/vi/hb5f4SgC_x4/maxresdefault.jpg" alt="P8 Tweak 4-Minute Preview" width="70%">
+  </a>
+  <p><i>Click the image above to watch our 4-minute feature preview on YouTube!</i></p>
+</div>
+
 ## ✨ Features
 
 - **⚙️ System Tweaks**: Safely disable unnecessary background services, animations, and bloated Windows features to improve responsiveness.
@@ -25,7 +34,7 @@ P8 Tweak is a comprehensive Windows utility designed to help you extract maximum
 - **🗂️ Storage Analyzer**: Visually identify what's eating up your disk space and easily delete large, forgotten files.
 - **⏱️ Benchmark**: Test your CPU, RAM, and Disk performance directly within the app to measure your optimization gains.
 - **🚀 Max Optimize**: Our signature one-click solution to apply the best, safest performance tweaks across your entire system simultaneously.
--  Over 35+ system tweaks and optimizations
+-  Over 40+ system tweaks and optimizations!
 
 ## 💻 System Requirements
 
@@ -58,7 +67,6 @@ P8 Tweak requires a license key for full access.
  <img src="https://github.com/user-attachments/assets/c62d334b-7fc5-4755-94f1-8ab3229d52ff" alt="Drive" width="400" /> 
  <img src="https://github.com/user-attachments/assets/12b31686-e91c-4566-9d94-c8adc981fdc7" alt="Gaming" width="400" />
  <img src="https://github.com/user-attachments/assets/828524e0-d1aa-4636-91db-27463d1cb752" alt="Privacy" width="400" /> 
-
 
 <br />
 </details>
