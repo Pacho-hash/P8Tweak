@@ -20,7 +20,12 @@ P8 Tweak is a comprehensive Windows utility designed to help you extract maximum
   <a href="https://www.youtube.com/watch?v=hb5f4SgC_x4">
     <img src="https://img.youtube.com/vi/hb5f4SgC_x4/maxresdefault.jpg" alt="P8 Tweak 4-Minute Preview" width="70%">
   </a>
-  <p><i>Click the image above to watch our 4-minute feature preview on YouTube!</i></p>
+  <br />
+  <br />
+  <a href="https://www.youtube.com/watch?v=hb5f4SgC_x4">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Preview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
+  </a>
+  <p><i>Click the thumbnail or button above to watch my quick preview!</i></p>
 </div>
 
 ## ✨ Features
